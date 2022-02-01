@@ -1,0 +1,13 @@
+Opened log file "eae6320.log"
+First entry point of my game, application running
+Initialized time
+Registered main window class "Shilpa's EAE6320 Main Window Class"
+The user settings file "settings.ini" doesn't exist. Using default settings instead.
+Created main window "Shilpa's EAE6320 Game -- Direct3D -- Debug"
+Set main window resolution to 512 x 512
+My game is being initialized
+Reading player details
+The application was successfully initialized
+Cleaned up all resources for my game
+Unregistered main window class
+Closing log file
